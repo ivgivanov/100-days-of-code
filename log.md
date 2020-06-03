@@ -15,4 +15,13 @@
 
 **Thoughts:** It's getting more and more clear how java actually works and what it depends on. It's always benefitial to understand the very basics before diving deep. 
 
-**Link to work:** [github](https://github.com/ivgivanov/learningJava/tree/master/1.%20build%20and%20run%20simple%20app)
+**Link to work:** [First simple project with VSCode](https://github.com/ivgivanov/learningJava/tree/master/1.%20build%20and%20run%20simple%20app)
+
+
+### Day 2: June 3, 2020
+
+**Today's Progress:** Theoretical lesson, when and why to use Java
+
+**Thoughts:** There is no single answer for all questinos, right? There were nice comparisons covered in the course against other languages as well as the general philosophy behind Java.
+
+**Link to work:** N/A
