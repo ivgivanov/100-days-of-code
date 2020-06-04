@@ -25,3 +25,12 @@
 **Thoughts:** There is no single answer for all questinos, right? There were nice comparisons covered in the course against other languages as well as the general philosophy behind Java.
 
 **Link to work:** N/A
+
+
+### Day 3: June 4, 2020
+
+**Today's Progress:** Exploring commonly used Java libraries
+
+**Thoughts:** One particular statement during the course got my attention - no need to re-invent the wheel. There are a lot of high quality and open-source java libraries which can save you significant amount of time writing it from scratch.
+
+**Link to work:** N/A
