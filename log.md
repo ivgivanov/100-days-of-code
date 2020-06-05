@@ -34,3 +34,12 @@
 **Thoughts:** One particular statement during the course got my attention - no need to re-invent the wheel. There are a lot of high quality and open-source java libraries which can save you significant amount of time writing it from scratch.
 
 **Link to work:** N/A
+
+
+### Day 4: June 5, 2020
+
+**Today's Progress:** Math operations
+
+**Thoughts:** I got some clarification on how prefix and postifx increment/decrement operators work. Be very careful with narrowing converstions!
+
+**Link to work:** [Math operations](https://github.com/ivgivanov/learningJava/tree/master/2.%20math%20operations/math-operations/src)
