@@ -43,3 +43,12 @@
 **Thoughts:** I got some clarification on how prefix and postifx increment/decrement operators work. Be very careful with narrowing converstions!
 
 **Link to work:** [Math operations](https://github.com/ivgivanov/learningJava/tree/master/2.%20math%20operations/math-operations/src)
+
+
+### Day 5: June 6, 2020
+
+**Today's Progress:** Exploring vSphere object model
+
+**Thoughts:** Created a small app that connects to a vCenter Server and retrieves very basic info. Used the knowledge from previous days to package it into executable .jar including the dependencies. Apperantly, this is called fat jar.
+
+**Link to work:** [Exploring vSphere object model](https://github.com/ivgivanov/learningJava/tree/master/3.%20Exploring%20vSphere%20SDK/tin)
