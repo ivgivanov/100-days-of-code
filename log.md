@@ -52,3 +52,12 @@
 **Thoughts:** Created a small app that connects to a vCenter Server and retrieves very basic info. Used the knowledge from previous days to package it into executable .jar including the dependencies. Apperantly, this is called fat jar.
 
 **Link to work:** [Exploring vSphere object model](https://github.com/ivgivanov/learningJava/tree/master/3.%20Exploring%20vSphere%20SDK/tin)
+
+
+### Day 6: June 7, 2020
+
+**Today's Progress:** Using vCenter PropertyCollector
+
+**Thoughts:** The vCenter object model is quite complex. I was using the PropertyCollector to get specific (or all) properties for a given ManagedObject.
+
+**Link to work:** [Using vCenter property collector](https://github.com/ivgivanov/learningJava/commit/fa5677e12f6a6795985cd98f8e73eaf55582cef6)
