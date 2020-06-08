@@ -61,3 +61,12 @@
 **Thoughts:** The vCenter object model is quite complex. I was using the PropertyCollector to get specific (or all) properties for a given ManagedObject.
 
 **Link to work:** [Using vCenter property collector](https://github.com/ivgivanov/learningJava/commit/fa5677e12f6a6795985cd98f8e73eaf55582cef6)
+
+
+### Day 7: June 8, 2020
+
+**Today's Progress:** Theoretical lesson, logical operators, loops and arrays
+
+**Thoughts:** Refreshed my knowledge and use-cases of different loops. I really like the 'conditional assignment' syntax.
+
+**Link to work:** N/A
