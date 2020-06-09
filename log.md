@@ -70,3 +70,12 @@
 **Thoughts:** Refreshed my knowledge and use-cases of different loops. I really like the 'conditional assignment' syntax.
 
 **Link to work:** N/A
+
+
+### Day 8: June 9, 2020
+
+**Today's Progress:** Classes and objects in Java
+
+**Thoughts:** Every rules has exceptions. Everything in Java is objects, except primitives
+
+**Link to work:** N/A
