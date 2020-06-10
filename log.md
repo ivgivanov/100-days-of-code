@@ -79,3 +79,12 @@
 **Thoughts:** Every rules has exceptions. Everything in Java is objects, except primitives
 
 **Link to work:** N/A
+
+
+### Day 9: June 10, 2020
+
+**Today's Progress:** Using vCenter AuthorizationManager to create a VC role with permissions
+
+**Thoughts:** Everything starts with the VimPort! When calling methods found in the SDK documentation I need to use instance of VimPortType and pass as first arguemnt the object type I found the method from.
+
+**Link to work:** [Using vCenter AuthorizationManager](https://github.com/ivgivanov/learningJava/commit/51945222b594cf0bfdbeaf8c82432578c0f0df7d)
