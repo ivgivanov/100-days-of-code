@@ -88,3 +88,12 @@
 **Thoughts:** Everything starts with the VimPort! When calling methods found in the SDK documentation I need to use instance of VimPortType and pass as first arguemnt the object type I found the method from.
 
 **Link to work:** [Using vCenter AuthorizationManager](https://github.com/ivgivanov/learningJava/commit/51945222b594cf0bfdbeaf8c82432578c0f0df7d)
+
+
+### Day 10: June 11, 2020
+
+**Today's Progress:** Using (and undersatding) access modifiers in Java
+
+**Thoughts:** Now I better understand the usage of getters and setters.
+
+**Link to work:** [Using access modifiers](https://github.com/ivgivanov/learningJava/commit/aea1a0cf2d27f8bd632c708f0a4f7e6b9f211008)
