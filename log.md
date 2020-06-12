@@ -97,3 +97,12 @@
 **Thoughts:** Now I better understand the usage of getters and setters.
 
 **Link to work:** [Using access modifiers](https://github.com/ivgivanov/learningJava/commit/aea1a0cf2d27f8bd632c708f0a4f7e6b9f211008)
+
+
+### Day 11: June 12, 2020
+
+**Today's Progress:** Theory, constructors and method signatures
+
+**Thoughts:** I learned the order of assigning values to properties during creation of instance of a class. Understood what makes up the method signature
+
+**Link to work:** N/A
