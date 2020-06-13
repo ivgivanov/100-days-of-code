@@ -106,3 +106,12 @@
 **Thoughts:** I learned the order of assigning values to properties during creation of instance of a class. Understood what makes up the method signature
 
 **Link to work:** N/A
+
+
+### Day 12: June 13, 2020
+
+**Today's Progress:** Refactor vCenter role creation and add methods to get RoleID and update role
+
+**Thoughts:** I may need to create a method for default configuration when using property collector. Already had to use it twice.
+
+**Link to work:** [Get roleId and update role](https://github.com/ivgivanov/learningJava/commit/ee394d5406c7c553d33fa3dde1f2931bffa92a11)
