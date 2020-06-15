@@ -124,3 +124,12 @@
 **Thoughts:** Getting more and mroe comfortable with the vSphere object model. Still a lot to learn though
 
 **Link to work:** [Assign a role](https://github.com/ivgivanov/learningJava/commit/d5d55e284a232ad57357fa5a6179cf96d437ea70)
+
+
+### Day 14: June 15, 2020
+
+**Today's Progress:** Theoretical lesson, class inheritance
+
+**Thoughts:** Things are getting real! Added some examples of class inheritance and method overrides to my simple app
+
+**Link to work:** [Class inheritance](https://github.com/ivgivanov/learningJava/commit/0dabb7658fc722f2e9d1108b287c665485354a23)
