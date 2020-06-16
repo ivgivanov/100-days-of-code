@@ -133,3 +133,12 @@
 **Thoughts:** Things are getting real! Added some examples of class inheritance and method overrides to my simple app
 
 **Link to work:** [Class inheritance](https://github.com/ivgivanov/learningJava/commit/0dabb7658fc722f2e9d1108b287c665485354a23)
+
+
+### Day 15: June 16, 2020
+
+**Today's Progress:** Using vCenter property collector to list names of all VMs from specified starting point
+
+**Thoughts:** The property collector is quite complex. Slowly things are starting to make sense, but I need more practice with it
+
+**Link to work:** [List VM names with VC PropertyCollector](https://github.com/ivgivanov/learningJava/commit/3ba2adaf1daa5d09da5fd153d4a22d7dc65e381e)
