@@ -142,3 +142,12 @@
 **Thoughts:** The property collector is quite complex. Slowly things are starting to make sense, but I need more practice with it
 
 **Link to work:** [List VM names with VC PropertyCollector](https://github.com/ivgivanov/learningJava/commit/3ba2adaf1daa5d09da5fd153d4a22d7dc65e381e)
+
+
+### Day 16: June 17, 2020
+
+**Today's Progress:** Practice with vCenter TraversalSpec to traverse the object model and retreive properties for different object types
+
+**Thoughts:** Traversing the vCenter object model is difficult to understand, but slowly making progress
+
+**Link to work:** [Build customer traversal for VMs and Datastores](https://github.com/ivgivanov/learningJava/commit/b47eed16b8ff7e5c788bd05571087387142f298b)
