@@ -151,3 +151,12 @@
 **Thoughts:** Traversing the vCenter object model is difficult to understand, but slowly making progress
 
 **Link to work:** [Build customer traversal for VMs and Datastores](https://github.com/ivgivanov/learningJava/commit/b47eed16b8ff7e5c788bd05571087387142f298b)
+
+
+### Day 17: June 18, 2020
+
+**Today's Progress:** Theory, data types. String, StringBuilder, Primitive Wrapper classes
+
+**Thoughts:** Having a powerful dev workstation shouln't justify wasting a resources while programming. StringBuilder class helps keeping things efficient when composing strings
+
+**Link to work:** N/A
