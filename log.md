@@ -160,3 +160,12 @@
 **Thoughts:** Having a powerful dev workstation shouln't justify wasting a resources while programming. StringBuilder class helps keeping things efficient when composing strings
 
 **Link to work:** N/A
+
+
+### Day 18: June 19, 2020
+
+**Today's Progress:** Theory, error handling and packages
+
+**Thoughts:** I didn't know I can use try with only finally without any catch block. I see it totally makes sense to do so when adding a throws clause to the method.
+
+**Link to work:** N/A
