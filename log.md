@@ -169,3 +169,12 @@
 **Thoughts:** I didn't know I can use try with only finally without any catch block. I see it totally makes sense to do so when adding a throws clause to the method.
 
 **Link to work:** N/A
+
+
+### Day 19: June 20, 2020
+
+**Today's Progress:** Started small "weekend" project
+
+**Thoughts:** I'm going to utilize what I've learnt so far about Java and interacting with vSphere SDK and do a small project over the weekend.
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/36a8969600450c9a8872bd2870a31352634b2e57)
