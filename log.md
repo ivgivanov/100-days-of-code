@@ -178,3 +178,12 @@
 **Thoughts:** I'm going to utilize what I've learnt so far about Java and interacting with vSphere SDK and do a small project over the weekend.
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/36a8969600450c9a8872bd2870a31352634b2e57)
+
+
+### Day 20: June 21, 2020
+
+**Today's Progress:** Finished the login part and added main view to my small project
+
+**Thoughts:** I DO NOT want to be FronEnd developer.
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/1bdb149078f8b807f761d43e0df5f03f5abab44e)
