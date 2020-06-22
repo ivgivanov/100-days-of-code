@@ -187,3 +187,12 @@
 **Thoughts:** I DO NOT want to be FronEnd developer.
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/1bdb149078f8b807f761d43e0df5f03f5abab44e)
+
+
+### Day 21: June 22, 2020
+
+**Today's Progress:** Theory, Java Interface
+
+**Thoughts:** Adds one more level of abstraction. Some parts of the lesson I had to listen twice to get the concet. Need practice
+
+**Link to work:** N/A
