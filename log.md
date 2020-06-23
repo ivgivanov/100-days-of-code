@@ -196,3 +196,12 @@
 **Thoughts:** Adds one more level of abstraction. Some parts of the lesson I had to listen twice to get the concet. Need practice
 
 **Link to work:** N/A
+
+
+### Day 22: June 23, 2020
+
+**Today's Progress:** Finished Java Fundamentals course
+
+**Thoughts:** I think I have sufficient theoretical knowledge to spends the next few days as purely hands-on and refer to some chapters when needed
+
+**Link to work:** N/A
