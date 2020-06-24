@@ -205,3 +205,12 @@
 **Thoughts:** I think I have sufficient theoretical knowledge to spends the next few days as purely hands-on and refer to some chapters when needed
 
 **Link to work:** N/A
+
+
+### Day 23: June 24, 2020
+
+**Today's Progress:** Retrieved all roles and cluster names. Put them in JList object on demand
+
+**Thoughts:** Main difficulty now is to work with java swt
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/91b8cb831af3d2fe08ef0386a6079ddac02beb69)
