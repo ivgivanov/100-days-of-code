@@ -214,3 +214,12 @@
 **Thoughts:** Main difficulty now is to work with java swt
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/91b8cb831af3d2fe08ef0386a6079ddac02beb69)
+
+
+### Day 24: June 25, 2020
+
+**Today's Progress:** Unsuccesfull attempt to do bigger refactoring. Added a form for new target VC connection
+
+**Thoughts:** I may need to re-think the class implementation...
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/a84b44a9d81bbbbca34f78c36c02de32eba56a7b)
