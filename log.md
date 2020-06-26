@@ -223,3 +223,12 @@
 **Thoughts:** I may need to re-think the class implementation...
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/a84b44a9d81bbbbca34f78c36c02de32eba56a7b)
+
+
+### Day 25: June 26, 2020
+
+**Today's Progress:** Did some real refactoring today. Rewrote the way how the VC connection is handled. Touched pretty much all classes
+
+**Thoughts:** It starts to feel like Java already, I like the way things are going
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/783579fc32b2b09f10c06e8ad8655f0b57711cf1)
