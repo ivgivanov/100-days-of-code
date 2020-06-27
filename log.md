@@ -232,3 +232,12 @@
 **Thoughts:** It starts to feel like Java already, I like the way things are going
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/783579fc32b2b09f10c06e8ad8655f0b57711cf1)
+
+
+### Day 26: June 27, 2020
+
+**Today's Progress:** Used inheritance of the VcConnectionUi class to achieve different functionality for different use cases
+
+**Thoughts:** Already used almost all of the theory I learned in the last 3 weeks
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/9effa3aee81ab86372f62622c137abdeb9d79e22)
