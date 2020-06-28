@@ -241,3 +241,12 @@
 **Thoughts:** Already used almost all of the theory I learned in the last 3 weeks
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/9effa3aee81ab86372f62622c137abdeb9d79e22)
+
+
+### Day 27: June 28, 2020
+
+**Today's Progress:** Finished the Copy vCenter Role implementation! Happy to see it fully workign now!
+
+**Thoughts:** My main struggle is still the Swing UI. Can't wait to learn how to implement REST API endpoints!
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/a3754a873172e0eb22017be2f3f8754b5e5235a7)
