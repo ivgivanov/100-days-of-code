@@ -250,3 +250,12 @@
 **Thoughts:** My main struggle is still the Swing UI. Can't wait to learn how to implement REST API endpoints!
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/a3754a873172e0eb22017be2f3f8754b5e5235a7)
+
+
+### Day 28: June 29, 2020
+
+**Today's Progress:** Created custom cluster and host classes
+
+**Thoughts:** Moving towards implementaion of the "Check vMotion compatibility" method
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/e338986af0acebedd7669264ef134f5ccc642c7b)
