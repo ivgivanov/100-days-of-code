@@ -259,3 +259,12 @@
 **Thoughts:** Moving towards implementaion of the "Check vMotion compatibility" method
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/e338986af0acebedd7669264ef134f5ccc642c7b)
+
+
+### Day 29: June 30, 2020
+
+**Today's Progress:** Collected VMs and prepared all inputs for the Check vMotion Compatibility method
+
+**Thoughts:** I actually even executed the method, but I need now to parse the response
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/d9dfa235302adb0532c41faf5d9240a536254029)
