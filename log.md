@@ -268,3 +268,12 @@
 **Thoughts:** I actually even executed the method, but I need now to parse the response
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/d9dfa235302adb0532c41faf5d9240a536254029)
+
+
+### Day 30: July 1, 2020
+
+**Today's Progress:** Parsed the reponse from queryVMotionCompatibilityExTask method
+
+**Thoughts:** I can now evaluate and show the potential error if vMotion is not possible for some VM in a given cluster
+
+**Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/2f6115ff7eb50ca2066121a07b3b06b31add91f3)
