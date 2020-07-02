@@ -277,3 +277,12 @@
 **Thoughts:** I can now evaluate and show the potential error if vMotion is not possible for some VM in a given cluster
 
 **Link to work:** [Small TIN application](https://github.com/ivgivanov/tin/commit/2f6115ff7eb50ca2066121a07b3b06b31add91f3)
+
+
+### Day 31: July 2, 2020
+
+**Today's Progress:** Theoretical lesson, Java Collections
+
+**Thoughts:** Started a short course at pluralsight covering Java Collections. Explains in depth benfits and usecases. Tovered the Collection interface and List
+
+**Link to work:** N/A
