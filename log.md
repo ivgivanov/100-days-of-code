@@ -283,6 +283,15 @@
 
 **Today's Progress:** Theoretical lesson, Java Collections
 
-**Thoughts:** Started a short course at pluralsight covering Java Collections. Explains in depth benfits and usecases. Tovered the Collection interface and List
+**Thoughts:** Started a short course at pluralsight covering Java Collections. Explains in depth benfits and usecases. Covered the Collection interface and List
+
+**Link to work:** N/A
+
+
+### Day 32: July 3, 2020
+
+**Today's Progress:** Theoretical lesson, Java Collections (continued)
+
+**Thoughts:** Breaking down Maps. It's a datastructure that it's proven to be really useful in the real world. Need more practice to get used to it
 
 **Link to work:** N/A
