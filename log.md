@@ -295,3 +295,12 @@
 **Thoughts:** Breaking down Maps. It's a datastructure that it's proven to be really useful in the real world. Need more practice to get used to it
 
 **Link to work:** N/A
+
+
+### Day 33: July 4, 2020
+
+**Today's Progress:** Hands on with small internal PoC
+
+**Thoughts:** Decided to tackle a small internal PoC. I'll be super happy if later on this gets really implemented
+
+**Link to work:** N/A - internal
