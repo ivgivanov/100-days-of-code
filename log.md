@@ -304,3 +304,12 @@
 **Thoughts:** Decided to tackle a small internal PoC. I'll be super happy if later on this gets really implemented
 
 **Link to work:** N/A - internal
+
+
+### Day 34: July 5, 2020
+
+**Today's Progress:** Hands on with small internal PoC
+
+**Thoughts:** Didn't progress as planned. Found multiple ways how something doesn't work...
+
+**Link to work:** N/A - internal
