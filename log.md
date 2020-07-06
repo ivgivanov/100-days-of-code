@@ -313,3 +313,12 @@
 **Thoughts:** Didn't progress as planned. Found multiple ways how something doesn't work...
 
 **Link to work:** N/A - internal
+
+
+### Day 35: July 6, 2020
+
+**Today's Progress:** Hands on with small internal PoC - came up with better data structure
+
+**Thoughts:** With better way to represent my data everything clicked together!
+
+**Link to work:** N/A - internal
