@@ -322,3 +322,12 @@
 **Thoughts:** With better way to represent my data everything clicked together!
 
 **Link to work:** N/A - internal
+
+
+### Day 36: July 7, 2020
+
+**Today's Progress:** Theory, finished the Java Collections course
+
+**Thoughts:** Today's focus was on Streams and Sets.
+
+**Link to work:** N/A
