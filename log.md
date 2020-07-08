@@ -331,3 +331,12 @@
 **Thoughts:** Today's focus was on Streams and Sets.
 
 **Link to work:** N/A
+
+
+### Day 37: July 8, 2020
+
+**Today's Progress:** Read code for alsmot 2 hours, and then made only couple of adjustments
+
+**Thoughts:** Getting nice inspirations reading other people's code
+
+**Link to work:** N/A - internal
