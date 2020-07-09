@@ -340,3 +340,12 @@
 **Thoughts:** Getting nice inspirations reading other people's code
 
 **Link to work:** N/A - internal
+
+
+### Day 38: July 9, 2020
+
+**Today's Progress:** Registerred at leetcode and worked on some problems there
+
+**Thoughts:** Even though some problems are marked as 'easy' they could be quite a brain teasers
+
+**Link to work:** N/A
