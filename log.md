@@ -349,3 +349,12 @@
 **Thoughts:** Even though some problems are marked as 'easy' they could be quite a brain teasers
 
 **Link to work:** N/A
+
+
+### Day 39: July 10, 2020
+
+**Today's Progress:** Theory, first steps into Spring framework
+
+**Thoughts:** This is one of the reason I started the 100DaysOfCode challenge
+
+**Link to work:** N/A
