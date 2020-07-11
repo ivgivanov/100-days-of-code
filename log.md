@@ -358,3 +358,12 @@
 **Thoughts:** This is one of the reason I started the 100DaysOfCode challenge
 
 **Link to work:** N/A
+
+
+### Day 40: July 11, 2020
+
+**Today's Progress:** Theory, learned about what makes the Spring framework
+
+**Thoughts:** The course also covered an  overview of multiple Spring projects and their use-cases
+
+**Link to work:** N/A
