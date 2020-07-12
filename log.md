@@ -367,3 +367,12 @@
 **Thoughts:** The course also covered an  overview of multiple Spring projects and their use-cases
 
 **Link to work:** N/A
+
+
+### Day 41: July 12, 2020
+
+**Today's Progress:** Created my first Spring application!
+
+**Thoughts:** It's a lot to process, but I think I'm getting the idea. The pluralsight course I'm following is quite good.
+
+**Link to work:** https://github.com/ivgivanov/learningJava/commit/f77b7ca7624f5bfcf018a32757be74f8466ad1d4
