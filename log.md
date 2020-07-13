@@ -376,3 +376,12 @@
 **Thoughts:** It's a lot to process, but I think I'm getting the idea. The pluralsight course I'm following is quite good.
 
 **Link to work:** https://github.com/ivgivanov/learningJava/commit/f77b7ca7624f5bfcf018a32757be74f8466ad1d4
+
+
+### Day 42: July 13, 2020
+
+**Today's Progress:** Spring scope and autowiring
+
+**Thoughts:** Autowiring seems quite cool, but haven't fully understood it yet
+
+**Link to work:** https://github.com/ivgivanov/learningJava/commit/ff829821fb91974e09d1dcea6303afd036c8b4b7
