@@ -385,3 +385,12 @@
 **Thoughts:** Autowiring seems quite cool, but haven't fully understood it yet
 
 **Link to work:** https://github.com/ivgivanov/learningJava/commit/ff829821fb91974e09d1dcea6303afd036c8b4b7
+
+
+### Day 43: July 14, 2020
+
+**Today's Progress:** Theory, looking into how configuration can be applied via xml
+
+**Thoughts:** I prefer the Java configuration. For me it's easier to read and follow when it's in the code
+
+**Link to work:** N/A
