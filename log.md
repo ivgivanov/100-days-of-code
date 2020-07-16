@@ -403,3 +403,12 @@
 **Thoughts:** I have some basic, high level understanding of the Spring framework. At lease enough so know what questions to ask
 
 **Link to work:** https://github.com/ivgivanov/learningJava/commit/01c3122313ee8e608c7e34b17a0d8a36c4884a06
+
+
+### Day 45: July 16, 2020
+
+**Today's Progress:** Introduction to Spring MVC
+
+**Thoughts:** Looking forward to building my first Java web application
+
+**Link to work:** N/A
