@@ -412,3 +412,12 @@
 **Thoughts:** Looking forward to building my first Java web application
 
 **Link to work:** N/A
+
+
+### Day 46: July 17, 2020
+
+**Today's Progress:** Did my first Java web app!
+
+**Thoughts:** Following the course, I created my first web app and even a controller that prints a message. Starting to feel the power of web development
+
+**Link to work:** https://github.com/ivgivanov/learningJava/commit/389cba5d687b24a4af0caf35840ef68b343aaf09
