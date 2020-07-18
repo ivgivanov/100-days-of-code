@@ -421,3 +421,12 @@
 **Thoughts:** Following the course, I created my first web app and even a controller that prints a message. Starting to feel the power of web development
 
 **Link to work:** https://github.com/ivgivanov/learningJava/commit/389cba5d687b24a4af0caf35840ef68b343aaf09
+
+
+### Day 47: July 18, 2020
+
+**Today's Progress:** Controllers in Spring MVC
+
+**Thoughts:** Implemented my first get and post methods in Java! Also learned how to server static pages if needed
+
+**Link to work:** https://github.com/ivgivanov/learningJava/commit/9cbec358890db947def2388bda6d067e0df35225
