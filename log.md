@@ -430,3 +430,12 @@
 **Thoughts:** Implemented my first get and post methods in Java! Also learned how to server static pages if needed
 
 **Link to work:** https://github.com/ivgivanov/learningJava/commit/9cbec358890db947def2388bda6d067e0df35225
+
+
+### Day 48: July 19, 2020
+
+**Today's Progress:** Finished the Spring MVC course
+
+**Thoughts:** One more piece of the puzzle. I'm ready to start my next personal project
+
+**Link to work:** ### https://github.com/ivgivanov/learningJava/commit/743ad200f2e9b736315d9c612ec13578f2952ce3
