@@ -439,3 +439,12 @@
 **Thoughts:** One more piece of the puzzle. I'm ready to start my next personal project
 
 **Link to work:** ### https://github.com/ivgivanov/learningJava/commit/743ad200f2e9b736315d9c612ec13578f2952ce3
+
+
+### Day 49: July 20, 2020
+
+**Today's Progress:** Started prototyping my next personal project - TIN using spring boot
+
+**Thoughts:** Used https://start.spring.io/ to get a head start and have the shell of the app ready
+
+**Link to work:** ### N/A
