@@ -448,3 +448,12 @@
 **Thoughts:** Used https://start.spring.io/ to get a head start and have the shell of the app ready
 
 **Link to work:** ### N/A
+
+
+### Day 50: July 21, 2020
+
+**Today's Progress:** Spending some time to better define the requirements and goals I want to achieve with my next app
+
+**Thoughts:** From past experience, I always prefer to have as clear idea as possible. Then solving the coding part is easier.
+
+**Link to work:** ### N/A
