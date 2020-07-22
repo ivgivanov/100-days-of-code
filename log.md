@@ -457,3 +457,12 @@
 **Thoughts:** From past experience, I always prefer to have as clear idea as possible. Then solving the coding part is easier.
 
 **Link to work:** ### N/A
+
+
+### Day 51: July 22, 2020
+
+**Today's Progress:** Consuming REST services from JAVA
+
+**Thoughts:** Used for the first time Spring's RestTemplate and I'm supper happy about it. Now I can offer and consume REST services!
+
+**Link to work:** ### local commit only
