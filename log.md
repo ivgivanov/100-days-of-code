@@ -466,3 +466,12 @@
 **Thoughts:** Used for the first time Spring's RestTemplate and I'm supper happy about it. Now I can offer and consume REST services!
 
 **Link to work:** ### local commit only
+
+
+### Day 52: July 23, 2020
+
+**Today's Progress:** Used Thymeleaf templates to generate HTML pages and display them as response to a GET endpoint
+
+**Thoughts:** I have all required pieces in order to start working on a complete app
+
+**Link to work:** ### local commit only
