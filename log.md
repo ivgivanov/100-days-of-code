@@ -475,3 +475,12 @@
 **Thoughts:** I have all required pieces in order to start working on a complete app
 
 **Link to work:** ### local commit only
+
+
+### Day 53: July 24, 2020
+
+**Today's Progress:** Got familiar with vSphere Automation SDK
+
+**Thoughts:** Manage to connect, authenticate, retrieve list of VMs from vCenter Server and display them back in a table in thymeleaf html template. Lesson learned, didn't had apache http client and lost 30 minutes in troubleshooting.
+
+**Link to work:** ### local commit only
