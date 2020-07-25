@@ -484,3 +484,12 @@
 **Thoughts:** Manage to connect, authenticate, retrieve list of VMs from vCenter Server and display them back in a table in thymeleaf html template. Lesson learned, didn't had apache http client and lost 30 minutes in troubleshooting.
 
 **Link to work:** ### local commit only
+
+
+### Day 54: July 25, 2020
+
+**Today's Progress:** Managed to break my app
+
+**Thoughts:** In the process of making it better, I broke even the existing functionality. I guess I need to go back for some more theory.
+
+**Link to work:** ### N/A
