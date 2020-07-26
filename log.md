@@ -493,3 +493,12 @@
 **Thoughts:** In the process of making it better, I broke even the existing functionality. I guess I need to go back for some more theory.
 
 **Link to work:** ### N/A
+
+
+### Day 55: July 26, 2020
+
+**Today's Progress:** Fixed the app!
+
+**Thoughts:** Went back to theory for some calrification on Spring beans and autowiring and fixed the issue in my app.
+
+**Link to work:** ### local commit only
