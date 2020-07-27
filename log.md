@@ -502,3 +502,12 @@
 **Thoughts:** Went back to theory for some calrification on Spring beans and autowiring and fixed the issue in my app.
 
 **Link to work:** ### local commit only
+
+
+### Day 56: July 27, 2020
+
+**Today's Progress:** Extended VM collection, externalized vSphere collector
+
+**Thoughts:** Prepared the design to further extend with host and vCenter collection. Planned for tomorrow.
+
+**Link to work:** ### local commit only
