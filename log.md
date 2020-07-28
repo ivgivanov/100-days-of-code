@@ -511,3 +511,12 @@
 **Thoughts:** Prepared the design to further extend with host and vCenter collection. Planned for tomorrow.
 
 **Link to work:** ### local commit only
+
+
+### Day 57: July 28, 2020
+
+**Today's Progress:** Added collection for host and vCenter data
+
+**Thoughts:** It was a good practice with spring boot and vsphere automation sdk.
+
+**Link to work:** ### local commit only
