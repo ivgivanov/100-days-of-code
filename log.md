@@ -520,3 +520,12 @@
 **Thoughts:** It was a good practice with spring boot and vsphere automation sdk.
 
 **Link to work:** ### local commit only
+
+
+### Day 58: July 29, 2020
+
+**Today's Progress:** Laid the groundwork to prepare a new endpoint for internal use
+
+**Thoughts:** I want to use my new skills to help other teammates in their daily tasks by addint new endpoint to existing tool
+
+**Link to work:** ### N/A
