@@ -529,3 +529,12 @@
 **Thoughts:** I want to use my new skills to help other teammates in their daily tasks by addint new endpoint to existing tool
 
 **Link to work:** ### N/A
+
+
+### Day 59: July 30, 2020
+
+**Today's Progress:** First part is ready
+
+**Thoughts:** Spent quite some time to read existing code today. Looks quite diffrent than Hello World program
+
+**Link to work:** ### local commit only
