@@ -538,3 +538,12 @@
 **Thoughts:** Spent quite some time to read existing code today. Looks quite diffrent than Hello World program
 
 **Link to work:** ### local commit only
+
+
+### Day 60: July 31, 2020
+
+**Today's Progress:** Make a good progress today, prepared regular GetMapping to return result + another that returns json formatted object
+
+**Thoughts:** I need to consider using pure REST endpoints and call them with javascript from the fron end. I'll achieve better UX this way
+
+**Link to work:** ### local commit only
