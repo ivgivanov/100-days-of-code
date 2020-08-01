@@ -547,3 +547,12 @@
 **Thoughts:** I need to consider using pure REST endpoints and call them with javascript from the fron end. I'll achieve better UX this way
 
 **Link to work:** ### local commit only
+
+
+### Day 61: August 1, 2020
+
+**Today's Progress:** Hit quite q few blockers today, no actual progress
+
+**Thoughts:** Sometimes it feels quite demotivating when you spend hours and there is nothing to show
+
+**Link to work:** ### N/A
