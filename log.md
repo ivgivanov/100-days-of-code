@@ -551,8 +551,17 @@
 
 ### Day 61: August 1, 2020
 
-**Today's Progress:** Hit quite q few blockers today, no actual progress
+**Today's Progress:** Hit quite a few blockers today, no actual progress
 
 **Thoughts:** Sometimes it feels quite demotivating when you spend hours and there is nothing to show
 
 **Link to work:** ### N/A
+
+
+### Day 62: August 2, 2020
+
+**Today's Progress:** I'm almost ready to preapre a PR!
+
+**Thoughts:** About to create a PR for some additions to an internal tool which me and my colleagues are using. I hope the review will not be devastating
+
+**Link to work:** ### local commit only
