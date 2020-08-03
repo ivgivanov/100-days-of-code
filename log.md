@@ -565,3 +565,12 @@
 **Thoughts:** About to create a PR for some additions to an internal tool which me and my colleagues are using. I hope the review will not be devastating
 
 **Link to work:** ### local commit only
+
+
+### Day 63: August 3, 2020
+
+**Today's Progress:** Theory, started Spring Data JPA course
+
+**Thoughts:** This seems like a crucial part of any serious application. Today started the Spring Data JPA course on Pluralsight
+
+**Link to work:** ### N/A
