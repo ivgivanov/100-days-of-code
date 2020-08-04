@@ -574,3 +574,12 @@
 **Thoughts:** This seems like a crucial part of any serious application. Today started the Spring Data JPA course on Pluralsight
 
 **Link to work:** ### N/A
+
+
+### Day 64: August 4, 2020
+
+**Today's Progress:** Super excited! Used javascrip to call my Java endpoints!
+
+**Thoughts:** I don't plan focusing much on front-end, but being able to provide working solution (be + fe) is really cool!
+
+**Link to work:** ### local commit only
