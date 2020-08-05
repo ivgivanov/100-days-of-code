@@ -578,8 +578,17 @@
 
 ### Day 64: August 4, 2020
 
-**Today's Progress:** Super excited! Used javascrip to call my Java endpoints!
+**Today's Progress:** Super excited! Used javascript to call my Java endpoints!
 
 **Thoughts:** I don't plan focusing much on front-end, but being able to provide working solution (be + fe) is really cool!
+
+**Link to work:** ### local commit only
+
+
+### Day 65: August 5, 2020
+
+**Today's Progress:** Polished my small internal project and requested review
+
+**Thoughts:** Looking forward to get some feedback for my internal project.
 
 **Link to work:** ### local commit only
