@@ -592,3 +592,12 @@
 **Thoughts:** Looking forward to get some feedback for my internal project.
 
 **Link to work:** ### local commit only
+
+
+### Day 66: August 6, 2020
+
+**Today's Progress:** Received quite good review with just couple of suggestions for improvements which I just fixed.
+
+**Thoughts:** It's great to receive comments from real developer. Especially when the commet is positive!
+
+**Link to work:** ### local commit only
