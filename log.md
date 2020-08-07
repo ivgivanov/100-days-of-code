@@ -601,3 +601,12 @@
 **Thoughts:** It's great to receive comments from real developer. Especially when the commet is positive!
 
 **Link to work:** ### local commit only
+
+
+### Day 67: August 7, 2020
+
+**Today's Progress:** Resumed my Spring Data JPA course
+
+**Thoughts:** Installing and configuring Spring Data JPA
+
+**Link to work:** ### N/A
