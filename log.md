@@ -610,3 +610,12 @@
 **Thoughts:** Installing and configuring Spring Data JPA
 
 **Link to work:** ### N/A
+
+
+### Day 68: August 8, 2020
+
+**Today's Progress:** "Installing" and configuring Spring Data JPA
+
+**Thoughts:** I have my local postgres db up and running and even queried already via JPA repostiory
+
+**Link to work:** ### N/A
