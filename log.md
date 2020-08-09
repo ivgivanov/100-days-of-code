@@ -619,3 +619,12 @@
 **Thoughts:** I have my local postgres db up and running and even queried already via JPA repostiory
 
 **Link to work:** ### N/A
+
+
+### Day 69: August 9, 2020
+
+**Today's Progress:** Theory, Spring Data JPA Repositories
+
+**Thoughts:** Best practices and migration methods
+
+**Link to work:** ### N/A
