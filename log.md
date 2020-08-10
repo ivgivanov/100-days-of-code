@@ -628,3 +628,12 @@
 **Thoughts:** Best practices and migration methods
 
 **Link to work:** ### N/A
+
+
+### Day 70: August 10, 2020
+
+**Today's Progress:** Theory, Query DSL
+
+**Thoughts:** I had great 'aha' moment today! I've been reading some code before and couldn't understand how that works. The Query DSL does so much behind the scenes!
+
+**Link to work:** ### N/A
