@@ -637,3 +637,12 @@
 **Thoughts:** I had great 'aha' moment today! I've been reading some code before and couldn't understand how that works. The Query DSL does so much behind the scenes!
 
 **Link to work:** ### N/A
+
+
+### Day 71: August 11, 2020
+
+**Today's Progress:** Theory, Query DSL - more practice with writing methods
+
+**Thoughts:** Today I used more DSL keywords to test different queries
+
+**Link to work:** ### N/A
