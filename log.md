@@ -627,7 +627,7 @@
 
 **Thoughts:** Best practices and migration methods
 
-**Link to work:** ### N/A
+**Link to work:** ### local commit only
 
 
 ### Day 70: August 10, 2020
@@ -636,7 +636,7 @@
 
 **Thoughts:** I had great 'aha' moment today! I've been reading some code before and couldn't understand how that works. The Query DSL does so much behind the scenes!
 
-**Link to work:** ### N/A
+**Link to work:** ### local commit only
 
 
 ### Day 71: August 11, 2020
@@ -645,4 +645,13 @@
 
 **Thoughts:** Today I used more DSL keywords to test different queries
 
-**Link to work:** ### N/A
+**Link to work:** ### local commit only
+
+
+### Day 72: August 12, 2020
+
+**Today's Progress:** Theory, Query Annotation - when Query DSL is not enough
+
+**Thoughts:** For more complex query QueryDSL may not be sufficient. Then the @Query can be used to write the sql query
+
+**Link to work:** ### local commit only
