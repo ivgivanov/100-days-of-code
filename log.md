@@ -655,3 +655,12 @@
 **Thoughts:** For more complex query QueryDSL may not be sufficient. Then the @Query can be used to write the sql query
 
 **Link to work:** ### local commit only
+
+
+### Day 73: August 13, 2020
+
+**Today's Progress:** Theory, Native SQL support
+
+**Thoughts:** After spending quite some time with the Spring Data JPA I thin I may need some refresh and upgrade of my SQL knowledge
+
+**Link to work:** ### local commit only
