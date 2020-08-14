@@ -664,3 +664,12 @@
 **Thoughts:** After spending quite some time with the Spring Data JPA I thin I may need some refresh and upgrade of my SQL knowledge
 
 **Link to work:** ### local commit only
+
+
+### Day 74: August 14, 2020
+
+**Today's Progress:** Finished the Spring Data JPA course
+
+**Thoughts:** I have lined up all hands-on weekend. I have much better understanding how modern Java apps are interacting with DBs
+
+**Link to work:** ### N/A
