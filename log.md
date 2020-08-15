@@ -673,3 +673,12 @@
 **Thoughts:** I have lined up all hands-on weekend. I have much better understanding how modern Java apps are interacting with DBs
 
 **Link to work:** ### N/A
+
+
+### Day 75: August 15, 2020
+
+**Today's Progress:** Added yet another internal endpoint along with UI
+
+**Thoughts:** Spent more time than planned, but I finished it all - BE + FE!
+
+**Link to work:** ### private repository
