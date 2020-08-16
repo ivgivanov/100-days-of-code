@@ -682,3 +682,12 @@
 **Thoughts:** Spent more time than planned, but I finished it all - BE + FE!
 
 **Link to work:** ### private repository
+
+
+### Day 76: August 16, 2020
+
+**Today's Progress:** Spend the evening improving the error handling
+
+**Thoughts:** Something to figure out - how to print correct error message when the exception is cought in the code of some library and handled (printend to console)?
+
+**Link to work:** ### private repository
