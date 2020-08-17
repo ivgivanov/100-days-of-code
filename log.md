@@ -691,3 +691,12 @@
 **Thoughts:** Something to figure out - how to print correct error message when the exception is cought in the code of some library and handled (printend to console)?
 
 **Link to work:** ### private repository
+
+
+### Day 77: August 17, 2020
+
+**Today's Progress:** Troubleshooting deserialization of json
+
+**Thoughts:** Of course, it worked on my machine, but doesn't work on real build... trying to identify what went worng... and why
+
+**Link to work:** ### N/A
