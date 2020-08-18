@@ -700,3 +700,12 @@
 **Thoughts:** Of course, it worked on my machine, but doesn't work on real build... trying to identify what went worng... and why
 
 **Link to work:** ### N/A
+
+
+### Day 78: August 18, 2020
+
+**Today's Progress:** Getting more involved in the development process at work. I wrote some tests today
+
+**Thoughts:** It's nice to be able to implement something that helps your teammates. I'm happy that now I can actually contribute to tools used by other people!
+
+**Link to work:** ### private repository
