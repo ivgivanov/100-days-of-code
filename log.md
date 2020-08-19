@@ -709,3 +709,12 @@
 **Thoughts:** It's nice to be able to implement something that helps your teammates. I'm happy that now I can actually contribute to tools used by other people!
 
 **Link to work:** ### private repository
+
+
+### Day 79: August 19, 2020
+
+**Today's Progress:** Theory, Introduction and strucutre of Maven
+
+**Thoughts:** Building your application is as important as the app iteslf. Understanding how Maven works can signifucantly help you manage the app lifecycle
+
+**Link to work:** ### N/A
