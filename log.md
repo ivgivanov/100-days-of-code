@@ -718,3 +718,12 @@
 **Thoughts:** Building your application is as important as the app iteslf. Understanding how Maven works can signifucantly help you manage the app lifecycle
 
 **Link to work:** ### N/A
+
+
+### Day 80: August 20, 2020
+
+**Today's Progress:** Theory, Maven Dependencies and Repositories
+
+**Thoughts:** The most important thing I learned today was about the SNAPSHOT versions. It basically tells maven to always pull the latest code available for that version
+
+**Link to work:** ### N/A
