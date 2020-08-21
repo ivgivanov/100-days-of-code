@@ -727,3 +727,12 @@
 **Thoughts:** The most important thing I learned today was about the SNAPSHOT versions. It basically tells maven to always pull the latest code available for that version
 
 **Link to work:** ### N/A
+
+
+### Day 81: August 21, 2020
+
+**Today's Progress:** Finished the Maven Fundamentals course
+
+**Thoughts:** Honestly I was expecting some more advanced functionality to be covered, but it was nice to understand the basics
+
+**Link to work:** ### N/A
