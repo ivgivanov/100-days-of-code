@@ -736,3 +736,12 @@
 **Thoughts:** Honestly I was expecting some more advanced functionality to be covered, but it was nice to understand the basics
 
 **Link to work:** ### N/A
+
+
+### Day 82: August 22, 2020
+
+**Today's Progress:** Added a commit to an internal project. I do that now much more often than before
+
+**Thoughts:** Spring in a real application is not as straight forward as in a small demo app. I need to get used to reading and finding my way easy in such cases
+
+**Link to work:** ### Private repository
