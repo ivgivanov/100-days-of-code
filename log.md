@@ -745,3 +745,12 @@
 **Thoughts:** Spring in a real application is not as straight forward as in a small demo app. I need to get used to reading and finding my way easy in such cases
 
 **Link to work:** ### Private repository
+
+
+### Day 83: August 23, 2020
+
+**Today's Progress:** Reiterating some Spring realted topics. Going over short spring boot course
+
+**Thoughts:** Learned about the existence of Spring Boot CLI. Not planning to use it soon, but I wasn't expecting such thing would exists
+
+**Link to work:** ### N/A
