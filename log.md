@@ -754,3 +754,12 @@
 **Thoughts:** Learned about the existence of Spring Boot CLI. Not planning to use it soon, but I wasn't expecting such thing would exists
 
 **Link to work:** ### N/A
+
+
+### Day 84: August 24, 2020
+
+**Today's Progress:** Unfortunately I don't have much progress today. I sped quite some time dealing with solving conflicts after git force push
+
+**Thoughts:** Personally, I consider that once a branch is pushed to remote, fore push can cause more problems that it solves 
+
+**Link to work:** ### N/A
