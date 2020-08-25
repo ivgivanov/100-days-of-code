@@ -763,3 +763,12 @@
 **Thoughts:** Personally, I consider that once a branch is pushed to remote, fore push can cause more problems that it solves 
 
 **Link to work:** ### N/A
+
+
+### Day 85: August 25, 2020
+
+**Today's Progress:** Reviewing design priciples for REST services with springboot
+
+**Thoughts:** Ability to implement REST endpoints was one of the drivers for me to start this challenge. Now that I had better understanding, I wanted to go a bit deeper into the principles that should be followed
+
+**Link to work:** ### N/A
