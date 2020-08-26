@@ -772,3 +772,12 @@
 **Thoughts:** Ability to implement REST endpoints was one of the drivers for me to start this challenge. Now that I had better understanding, I wanted to go a bit deeper into the principles that should be followed
 
 **Link to work:** ### N/A
+
+
+### Day 86: August 26, 2020
+
+**Today's Progress:** Started working on the requirements for my last 100DaysOfCode project
+
+**Thoughts:** Planning to utilize everything I've lerned so far... rest api controllers with spring boot, maven and of course interacting with VMware vCenter Server
+
+**Link to work:** ### N/A only on paper
