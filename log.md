@@ -781,3 +781,12 @@
 **Thoughts:** Planning to utilize everything I've lerned so far... rest api controllers with spring boot, maven and of course interacting with VMware vCenter Server
 
 **Link to work:** ### N/A only on paper
+
+
+### Day 87: August 27, 2020
+
+**Today's Progress:** Worked on internal task and found an error in the current approach that requires somebody else to look into
+
+**Thoughts:** 30 minutes to get "in the zone" of what I'm going to do and how. About 1 hour coding and then 30 minutes of troubleshooting. At least I'm happy I found the root cause!
+
+**Link to work:** ### Private repository
