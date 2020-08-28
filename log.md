@@ -790,3 +790,12 @@
 **Thoughts:** 30 minutes to get "in the zone" of what I'm going to do and how. About 1 hour coding and then 30 minutes of troubleshooting. At least I'm happy I found the root cause!
 
 **Link to work:** ### Private repository
+
+
+### Day 88: August 28, 2020
+
+**Today's Progress:** Most productinve code day so far!
+
+**Thoughts:** Did 2 or 3 implementations until I was satisfied enough with the code before sending it to review
+
+**Link to work:** ### Private repository
