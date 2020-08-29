@@ -799,3 +799,12 @@
 **Thoughts:** Did 2 or 3 implementations until I was satisfied enough with the code before sending it to review
 
 **Link to work:** ### Private repository
+
+
+### Day 89: August 29, 2020
+
+**Today's Progress:** Back to the Spring Initializr 
+
+**Thoughts:** Started the actual code work for my last project as part of the challenge. First, implementing only the REST controllers, will deal with UI later
+
+**Link to work:** ### Private repository
