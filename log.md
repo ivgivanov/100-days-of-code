@@ -808,3 +808,12 @@
 **Thoughts:** Started the actual code work for my last project as part of the challenge. First, implementing only the REST controllers, will deal with UI later
 
 **Link to work:** ### Private repository
+
+
+### Day 90: August 30, 2020
+
+**Today's Progress:** Implemented REST endpoint that returns vCenter collection object
+
+**Thoughts:** I want to add some more infe regarding the vCenter Server, currently I have onyl what is part of the AboutInfo vim25 object.
+
+**Link to work:** ### Private repository
