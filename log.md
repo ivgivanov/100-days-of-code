@@ -814,6 +814,15 @@
 
 **Today's Progress:** Implemented REST endpoint that returns vCenter collection object
 
-**Thoughts:** I want to add some more infe regarding the vCenter Server, currently I have onyl what is part of the AboutInfo vim25 object.
+**Thoughts:** I want to add some more infe regarding the vCenter Server, currently I have only what is part of the AboutInfo vim25 object.
+
+**Link to work:** ### Private repository
+
+
+### Day 91: August 31, 2020
+
+**Today's Progress:** Added vCenter advanced settings and vCenter extensions to the data collection
+
+**Thoughts:** I forgot how time consuming is to work with the property collector. Still I'm glad I made it work!
 
 **Link to work:** ### Private repository
