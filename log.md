@@ -826,3 +826,12 @@
 **Thoughts:** I forgot how time consuming is to work with the property collector. Still I'm glad I made it work!
 
 **Link to work:** ### Private repository
+
+
+### Day 92: August 1, 2020
+
+**Today's Progress:** Implemented collection for 'config' and 'hardware' for ESXi hosts
+
+**Thoughts:** Even though I'm happy with the result so far, I think it can be done better
+
+**Link to work:** ### Private repository
