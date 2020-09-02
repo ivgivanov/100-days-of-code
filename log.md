@@ -828,10 +828,19 @@
 **Link to work:** ### Private repository
 
 
-### Day 92: August 1, 2020
+### Day 92: September 1, 2020
 
 **Today's Progress:** Implemented collection for 'config' and 'hardware' for ESXi hosts
 
 **Thoughts:** Even though I'm happy with the result so far, I think it can be done better
+
+**Link to work:** ### Private repository
+
+
+### Day 93: September 2, 2020
+
+**Today's Progress:** Implemented collection for vCenter release names from external source
+
+**Thoughts:** As the project gets bigger, it's getting harder and harder to maintain and keep it in my head. I guess I need better separation and working on one thing at a time
 
 **Link to work:** ### Private repository
