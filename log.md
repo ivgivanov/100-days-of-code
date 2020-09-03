@@ -844,3 +844,12 @@
 **Thoughts:** As the project gets bigger, it's getting harder and harder to maintain and keep it in my head. I guess I need better separation and working on one thing at a time
 
 **Link to work:** ### Private repository
+
+
+### Day 94: September 3, 2020
+
+**Today's Progress:** Prepred new classes to for transformed data and started working on 'vSphere Processor' that will do the needed computation
+
+**Thoughts:** I'll have a 'code review' with a colleague at work tomorrow to get second opition on the general architecture
+
+**Link to work:** ### Private repository
