@@ -853,3 +853,12 @@
 **Thoughts:** I'll have a 'code review' with a colleague at work tomorrow to get second opition on the general architecture
 
 **Link to work:** ### Private repository
+
+
+### Day 95: September 4, 2020
+
+**Today's Progress:** Architecture review with a colleague
+
+**Thoughts:** I needed to hear external opinion on the way I do thigs and also some general guidence on building the UI
+
+**Link to work:** ### N/A
