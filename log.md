@@ -862,3 +862,12 @@
 **Thoughts:** I needed to hear external opinion on the way I do thigs and also some general guidence on building the UI
 
 **Link to work:** ### N/A
+
+
+### Day 96: September 5, 2020
+
+**Today's Progress:** Did some refactoring based on code review
+
+**Thoughts:** Some code got removed and a bit simplified. Now it's easier to follow and understand and most importantly, fits well for my requirements
+
+**Link to work:** ### Private repository
