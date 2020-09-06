@@ -871,3 +871,12 @@
 **Thoughts:** Some code got removed and a bit simplified. Now it's easier to follow and understand and most importantly, fits well for my requirements
 
 **Link to work:** ### Private repository
+
+
+### Day 97: September 6, 2020
+
+**Today's Progress:** Working on UI today, handled login and pulling data from the backend
+
+**Thoughts:** Today was all about jquery and css. Making some skeleton for the SPA app. (I still don't like workig on front end)
+
+**Link to work:** ### Private repository
