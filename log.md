@@ -880,3 +880,12 @@
 **Thoughts:** Today was all about jquery and css. Making some skeleton for the SPA app. (I still don't like workig on front end)
 
 **Link to work:** ### Private repository
+
+
+### Day 98: September 7, 2020
+
+**Today's Progress:** Back to BE, working with HttpSessions
+
+**Thoughts:** Since I have kind of the BE and FE shell today was about handling user sessions. It's amazing how simple this is with Spring!
+
+**Link to work:** ### Private repository
