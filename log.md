@@ -889,3 +889,12 @@
 **Thoughts:** Since I have kind of the BE and FE shell today was about handling user sessions. It's amazing how simple this is with Spring!
 
 **Link to work:** ### Private repository
+
+
+### Day 99: September 8, 2020
+
+**Today's Progress:** Modified the authentication and adjusted the UI
+
+**Thoughts:** This should allow me to work only on the remaining GET methods for the VC collection
+
+**Link to work:** ### Private repository
