@@ -898,3 +898,12 @@
 **Thoughts:** This should allow me to work only on the remaining GET methods for the VC collection
 
 **Link to work:** ### Private repository
+
+
+### Day 100: September 9, 2020
+
+**Today's Progress:** Ready with the whole skeleton and structure of the app. From now on I'll be working on adding more content only
+
+**Thoughts:** It's the last day of the challenge. It's hard to believe! I'm happy that by the end I managed to use more "production" approach for my TIN application. I also wrote short blog post about my experience.
+
+**Link to work:** ### https://ivgivanov.info/posts/100-days-of-code-completed/
